@@ -1,60 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hari Sankar</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | System Design Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Hari Sankar</h1>
+<h3 align="center">🚀 AI Engineer • Full-Stack Developer • System Design Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:epicgeek11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/epicgk11">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-@epicgk11-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-I specialize in blending machine learning capabilities with solid backend engineering. Currently, I'm exploring the foundations of system design and building full-stack projects to expand my toolkit.
+I’m passionate about building **intelligent systems** that combine machine learning with scalable backend architecture.
 
-- 🔭 **Working on:** A full-stack application using technologies like **Bun** and **Elysia.js**.
-- 🌱 **Learning:** Advanced system design, networking concepts, and scalable architectures
-- 👯 **Open to collaborate on:** AI/ML projects or interesting backend systems
-- 💬 **Ask me about:** Python, Go, TypeScript, AI/ML, or my favorite Arthur C. Clarke sci-fi novels!
-- ⚡ **Fun fact:** I'm a big fan of home workouts, and I graduated 2nd in my B.Tech CS (AI & ML) class.
+- 🔭 Currently building: **Full-stack apps with Bun + Elysia.js**
+- 🌱 Exploring: **System Design, Distributed Systems & Networking**
+- 🤝 Open to: **AI/ML collaborations & backend-heavy projects**
+- 💬 Ask me about: **Python, Go, TypeScript, AI/ML**
+- 📚 Fun side: Huge fan of **Arthur C. Clarke sci-fi**
+- 🏋️ Bonus: Into **home workouts & discipline-based routines**
 
 ---
 
-### 🛠️ Languages & Tools
+## ⚡ Tech Stack
 
-**AI, ML & Data Science** <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+### 🧩 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Core & Backend** <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,nodejs,express,nestjs,django,flask,fastapi" />
+---
+
+### 🛠 Backend & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,cpp,nodejs,express,nestjs,django,flask,fastapi" />
 </p>
 
-**Frontend** <p align="left">
+---
+
+### 🎨 Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
 </p>
 
-**Databases & DevOps** <p align="left">
+---
+
+### 🗄 Databases & DevOps
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,docker,linux,git,postman,jest" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epicgk11&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epicgk11&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epicgk11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=epicgk11&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epicgk11&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epicgk11&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 🚀 What I'm Focused On
+
+```text
+✔ Building scalable backend systems
+✔ Mastering system design fundamentals
+✔ Integrating AI into real-world applications
+✔ Writing clean, efficient, production-grade code
